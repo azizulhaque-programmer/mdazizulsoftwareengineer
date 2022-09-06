@@ -5,18 +5,12 @@
 Hi, I am Md Azizul Haque – Senior Web Application Developer.I work for valuable clients and provide excellent service. Our quick turnaround time always gets the job done efficiently & The Unlimited Revisions offer always keeps my clients happy and satisfied. I am working with a team of 10 people in Bangladesh. Every team member is an expert. You can easily solve all your problems.
 We are given the details of which technology expert
 👨‍💻 Skills & Experiance:
-✅ WordPress
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+-✅ WordPress
+-✅ JavaScript
+-✅ PHP
+-✅ HTML5 / CSS3 / SASS / Bootstrap
+-✅ Photoshop / Illustrator
 
-
-
-  ✅I’m currently working on Themezone Technology 
-  ✅I’m currently learning Python 
-  ✅I’m looking to collaborate on github 
-  ✅Ask me about Web Application 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdazizulsoftwareengineer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-azizul-haque-36b59a148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jibonkhan.softwareengineer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mdazizul923)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/JibonKhan/videos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdazizulhaque.com/)  
