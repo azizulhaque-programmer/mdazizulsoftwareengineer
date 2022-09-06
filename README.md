@@ -1,16 +1,14 @@
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQEAhmuWRWe0Lg/profile-displaybackgroundimage-shrink_350_1400/0/1636020356530?e=1668038400&v=beta&t=_qBfWSg86w0HFZqqrYs6xyJZVM1EyNd7vghYGSTyQnc)
 ### Hi there 👋, I am Md Azizul Haque
 #### Software Engineer
+![Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQEAhmuWRWe0Lg/profile-displaybackgroundimage-shrink_350_1400/0/1636020356530?e=1668038400&v=beta&t=_qBfWSg86w0HFZqqrYs6xyJZVM1EyNd7vghYGSTyQnc)
 
-Hi, I am Md Azizul Haque – Senior Web Application Developer.I work for valuable clients and provide excellent service. Our quick turnaround time always gets the job done efficiently & The Unlimited Revisions offer always keeps my clients happy and satisfied. I am working with a team of 10 people in Bangladesh. Every team member is an expert. You can easily solve all your problems.
-We are given the details of which technology expert
-👨‍💻 Skills & Experiance:
--✅ WordPress
--✅ JavaScript
--✅ PHP
--✅ HTML5 / CSS3 / SASS / Bootstrap
--✅ Photoshop / Illustrator
 
+Skills:  LARAVEL/ REACT.JS / NODE.JS / PYTHON / WORDPRESS
+
+- 🔭 I’m currently working on Themezone Technology 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdazizulsoftwareengineer)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdazizulsoftwareengineer)](https://github.com/ryo-ma/github-profile-trophy)
 
