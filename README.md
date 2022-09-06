@@ -4,8 +4,14 @@
 
 Hi, I am Md Azizul Haque – Senior Web Application Developer.I work for valuable clients and provide excellent service. Our quick turnaround time always gets the job done efficiently & The Unlimited Revisions offer always keeps my clients happy and satisfied. I am working with a team of 10 people in Bangladesh. Every team member is an expert. You can easily solve all your problems.
 We are given the details of which technology expert
+👨‍💻 Skills & Experiance:
+✅ WordPress
+✅ JavaScript
+✅ PHP
+✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ Photoshop / Illustrator
 
-Skills: LARAVEL / VUE JS / REACT / JS / NODE JS/ MongoDB | AWS | Laravel | WordPress / HTML / CSS
+
 
 - 🔭 I’m currently working on Themezone Technology 
 - 🌱 I’m currently learning Python 
